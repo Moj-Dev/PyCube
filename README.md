@@ -1,3 +1,8 @@
+THIS IS AN OLD PROJECT WHEN I DIDN'T USE GITHUB TO BRANCH FROM THE MAASTER.
+
+https://github.com/rusty71/pycube-
+
+
 # pycube+
 
 pycube is a python application for controlling the Polaroid Cube+ action camera.
